@@ -1,5 +1,5 @@
 # proyectoJava005
-Proyecto en Java basado en lagestión de una base de datos.
+Proyecto en Java basado en la gestión de una base de datos.
 
  * Implementación de una gestion para una base de datos en Postgresql,llamada empresaDB.
  * Almacena información de empleados(idempleado,nombre,apellidos y salario).
